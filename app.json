@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "tp9-theme-hook-app",
+    "slug": "tp9-theme-hook-app",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
